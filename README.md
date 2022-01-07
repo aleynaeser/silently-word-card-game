@@ -18,7 +18,7 @@ It is a funny word card game created with Flutter.
   <tr><td>The winner's score is increased from the top left corner.</td></tr>
 </table>
 
-## This app has following things:
+## This app has following screens:
  
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45822686/148568427-5bdb1de3-5d27-4bf5-b1eb-c2ac6400d73a.png" width="300" height="600">  
